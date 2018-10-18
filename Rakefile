@@ -10,5 +10,3 @@ end
     puts "hello from Rake!"
   end
 end
-
-
